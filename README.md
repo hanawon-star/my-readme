@@ -15,7 +15,7 @@
 - 20712 김민겸: 나는 군인이 꿈이여 자국 정찰 항법 위성을 보호하기 위해 이 주제를 선정했다.
 
 ## 데이터
-- 출처(주소):https://www.kasi.re.kr/publication/post/newsMaterial/32315
+- 출처(주소):https://www.kasi.re.kr/publication/post/newsMaterial/32315 (한국 천문 연구원) https://ourworldindata.org/grapher/low-earth-orbits-objects?time=1958..2025 (our world in data) https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit (our world in data)
 - 기간·행 수·열 수:
 - 사용한 열:
 - 개인 단위 정보 없음 확인: 예 / 아니요
